@@ -1,6 +1,6 @@
 const apiController = {}
 
-apiController.hello = (_,res) => {
+apiController.hello = (_, res) => {
   res.send("hello world !!!")
 }
 
